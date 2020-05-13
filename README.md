@@ -1,6 +1,13 @@
-# four_in_one_clock
+# Three_in_one_clock
 
-Clock Design
+## World Clock and StopWatch 
+### Alarm UI
+
+![worldClockUI](lib/ScreenShots/img1.jpg)  
+![worldClockUI](lib/ScreenShots/img2.jpg)  
+![AlarmUI](lib/ScreenShots/img3.jpg)  
+![StopWatchUI](lib/ScreenShots/img4.jpg)
+
 
 ## Getting Started
 
